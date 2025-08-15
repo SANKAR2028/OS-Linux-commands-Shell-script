@@ -773,6 +773,7 @@ awk -f nc.awk data.dat
 
 ## OUTPUT 
  ![alt text](88.png)
+ 
 cat > palindrome.sh
 ```bash
 #num=545
